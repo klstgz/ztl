@@ -1,1 +1,1 @@
-print 'hello'adas
+print 'hello'
